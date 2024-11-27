@@ -1,0 +1,2 @@
+#komentar
+print("Ahoj, svet")

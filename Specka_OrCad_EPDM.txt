@@ -1,0 +1,2 @@
+Hlavièka špecky: Polozka\tMnozstvo\tOznacenie\tIdentifikator\tNazov\tTyp\tHodnota\tPoznamka\tEkvivalent1\tEkvivalent2
+Kombinácia špecky: {Item}\t{Quantity}\t{Reference}\t{Nom}\t{Nazov}\t{Value}\t{Hodnota}\t{Poznamka}\t{Ekvivalent1}\t{Ekvivalent2}
